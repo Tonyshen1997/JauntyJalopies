@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{98BCB2B4-A5E7-4AF8-A2C9-8311F46A5D7C}|Default">
+  <MonoDevelop.Ide.ItemProperties.team011 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Shared/_Customer.cshtml">
+    <Files>
+      <File FileName="Views/Shared/_Customer.cshtml" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="team011" expanded="True">
+            <Node name="team011" expanded="True">
+              <Node name="Helper" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="SaleTransaction" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Customer.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
