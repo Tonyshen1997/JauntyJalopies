@@ -2,11 +2,16 @@
 A management system for car dealership employee to update inventory, track sales, maintain repair history, and let customer search inventory.
 
 Part1:
-https://user-images.githubusercontent.com/76853620/237025279-896f5210-6036-4c11-ae66-6f46c8f42f9a.mov
+
+https://user-images.githubusercontent.com/76853620/237027845-81463f4a-2e68-40b0-b0b2-103a91d302dd.mp4
+
 
 Part2:
-https://user-images.githubusercontent.com/76853620/237025661-38de0639-2ad7-4de1-85d1-270e993b7a06.mov
+
+https://user-images.githubusercontent.com/76853620/237027784-89ac8aed-bf14-47de-8833-7b422d3111ee.mp4
+
 
 Part3:
-https://user-images.githubusercontent.com/76853620/237026379-24faf7eb-d99b-4e32-8275-20bcf4a491b5.mov
+
+https://user-images.githubusercontent.com/76853620/237027541-cba707f0-67ce-41e4-902d-52e3d16dc5f2.mov
 
